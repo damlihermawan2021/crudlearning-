@@ -1,0 +1,118 @@
+.main
+    .col-12.col-sm-12.col-md-12
+        .container  
+            #exampleForm.table-responsive.mt-5(tabindex='1' style='height: 400px; overflow: hidden; outline: none;')
+                button.btn.btn-sn.btn-danger.float-right(onclick=`deleteItems()` style='margin-bottom:50px;' type='button' data-action='delete') Delete
+                button#editButton.btn.btn-sn.btn-primary.float-right(onclick=`editItems()` style='margin-bottom:50px; margin-right:10px;') Edit
+                table#example.table.table-hover.table-xl.mb-0
+                tbody
+                    tr
+                        th(style='width:40%') Name
+                        td :
+                        td.nameStudent
+                    tr
+                        th(scope='row') Age
+                        td :
+                        td.ageStudent
+                    tr
+                        th(scope='row') Last Education
+                        td :
+                        td.lastEducationStudent
+                    tr 
+                        th(scope='row') Subjects :
+                        td :
+                        td.subjectStudent
+                    tr
+                        th(scope='row') First Date
+                        td :
+                        td.firstDateStudent
+                    tr
+                        th(scope='row') Last Date
+                        td :
+                        td.lastDateStudent
+.modal#exampleModal(tabindex='-1' role='dialog')
+  .modal-dialog(role='document')
+    .modal-content
+      .modal-header
+        h5.modal-title Modal title
+        button.close(type='button' data-dismiss='modal' aria-label='Close')
+          span(aria-hidden='true') &times;
+      .modal-body
+        p Modal body text goes here.
+      .modal-footer
+        button.btn.btn-primary(type='button') Save changes
+        button.btn.btn-secondary(type='button' data-dismiss='modal') Close
+ 
+            i.fa.fa-pencil-square-o(aria-hidden='true')
+script.
+    const result = !{data}
+    $(document).ready(function() {
+        $('.nameStudent').text(result.nameStudent)
+        $('.ageStudent').text(result.ageStudent)
+        $('.lastEducationStudent').text(result.lastEducationStudent)
+        $('.subjectStudent').text(result.subjectStudent)
+        $('.firstDateStudent').text(result.firstDateStudent)
+        $('.lastDateStudent').text(result.lastDateStudent)
+    })
+
+    function deleteItems(e) {
+    const params = window.location.pathname
+    const id = params.match(/\d+/g).toString()
+        $.ajax({
+            type: 'DELETE',
+            url: `/${id}`,
+            dataType: 'json',
+            data: {
+            id: e,
+            },
+            success: function (msg) {
+            if (msg) {
+                location.href = document.referrer
+            }
+            }
+        })
+        }
+        function editItems(e) {
+            const params = window.location.pathname
+            const id = params.match(/\d+/g).toString()
+            $('#nameStudent').val(result.nameStudent)
+            $('#ageStudent').val(result.ageStudent)
+            $('#lastEducationStudent').val(result.lastEducationStudent)
+            $('#subjectStudent').val(result.subjectStudent)
+            $('#firstDateStudent').val(result.firstDateStudent)
+            $('#lastDateStudent').val(result.lastDateStudent)
+            $("#exampleModal").modal("show");
+            $(".exampleModal").modal({
+                closable: false,
+        });
+            $('#submitEdit').click(function () {
+            const nameStudent = $('#nameStudent').val()
+            const ageStudent = $('#ageStudent').val()
+            const lastEducationStudent = $('#lastEducationStudent').val()
+            const subjectStudent = $('#subjectStudent').val()
+            const firstDateStudent = $('#firstDateStudent').val()
+            const lastDateStudent = $('#lastDateStudent').val()
+            $.ajax({
+            type: 'PUT',
+            url: `/${id}`,
+            dataType: 'json',
+            data: {
+                key: id,
+                value: {
+                nameStudent: nameStudent,
+                ageStudent: ageStudent,
+                lastEducationStudent: lastEducationStudent,
+                subjectStudent: subjectStudent,
+                firstDateStudent: firstDateStudent,
+                lastDateStudent: lastDateStudent,
+                },
+            },
+            success: function (msg) {
+                if (msg) {
+                    location.href = document.referrer
+                    //- $('.ui.modal.edit').modal('hide')
+                    }
+                    }
+                })
+                })
+            }

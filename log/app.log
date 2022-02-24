@@ -1,0 +1,2472 @@
+[2022-02-24T01:00:06.363] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:00:06.367] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:00:06.368] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:00:07.025] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:00:11.988] [INFO] app - [GET] /
+[2022-02-24T01:00:14.308] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:00:14.497] [INFO] app - [GET] /img/login.svg
+[2022-02-24T01:00:27.090] [INFO] lib.AuthService - [POST] /v1/auth/token pkl_fe
+[2022-02-24T01:00:27.365] [INFO] app - [GET] /
+[2022-02-24T01:00:30.682] [INFO] app - [GET] /home/data
+[2022-02-24T01:00:30.684] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /home/data',
+  path: '/home/data',
+  method: 'GET',
+  data: {},
+  isAjax: true
+}
+[2022-02-24T01:00:34.784] [INFO] app - [GET] /
+[2022-02-24T01:00:36.345] [INFO] app - [GET] /home/data
+[2022-02-24T01:00:36.346] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /home/data',
+  path: '/home/data',
+  method: 'GET',
+  data: {},
+  isAjax: true
+}
+[2022-02-24T01:01:16.395] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:01:16.399] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:01:16.399] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:01:16.508] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:01:17.101] [INFO] app - [GET] /
+[2022-02-24T01:01:21.562] [INFO] app - [GET] /home/data
+[2022-02-24T01:01:21.566] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /home/data',
+  path: '/home/data',
+  method: 'GET',
+  data: {},
+  isAjax: true
+}
+[2022-02-24T01:02:22.440] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:02:22.445] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:02:22.445] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:02:22.615] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:02:22.662] [INFO] app - [GET] /
+[2022-02-24T01:02:26.709] [INFO] app - [GET] /home/data
+[2022-02-24T01:02:26.712] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /home/data',
+  path: '/home/data',
+  method: 'GET',
+  data: {},
+  isAjax: true
+}
+[2022-02-24T01:03:09.507] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:03:09.510] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:03:09.510] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:03:09.613] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:03:27.893] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:03:27.896] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:03:27.896] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:03:28.000] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:03:30.349] [INFO] app - [GET] /
+[2022-02-24T01:03:33.521] [INFO] app - [GET] /home/data
+[2022-02-24T01:03:33.524] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /home/data',
+  path: '/home/data',
+  method: 'GET',
+  data: {},
+  isAjax: true
+}
+[2022-02-24T01:03:59.934] [INFO] app - [GET] /
+[2022-02-24T01:04:02.787] [INFO] app - [GET] /data
+[2022-02-24T01:04:02.789] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T01:05:21.195] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:05:21.198] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:05:21.199] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:05:21.315] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:05:21.840] [INFO] app - [GET] /
+[2022-02-24T01:05:25.475] [INFO] app - [GET] /data
+[2022-02-24T01:05:25.479] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T01:05:30.278] [INFO] app - [GET] /130759
+[2022-02-24T01:05:30.284] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130759"}}
+[2022-02-24T01:05:31.120] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:05:31.123] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:06:15.222] [INFO] app - [POST] /post
+[2022-02-24T01:06:15.223] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'manusia',
+    ageStudent: '25',
+    lastEducationStudent: 'SMK',
+    subjectStudent: 'Penagihan',
+    firstDateStudent: 'asd',
+    lastDateStudent: 'asd'
+  },
+  isAjax: true
+}
+[2022-02-24T01:07:07.063] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:07:07.066] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:07:07.067] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:07:07.176] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:07:08.073] [INFO] app - [GET] /
+[2022-02-24T01:07:11.124] [INFO] app - [GET] /data
+[2022-02-24T01:07:11.127] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T01:07:31.345] [INFO] app - [POST] /post
+[2022-02-24T01:07:31.350] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'rika',
+    ageStudent: '20',
+    lastEducationStudent: 's1',
+    subjectStudent: 'google',
+    firstDateStudent: 'asd',
+    lastDateStudent: 'asd'
+  },
+  isAjax: true
+}
+[2022-02-24T01:07:32.598] [INFO] app - [POST] /post
+[2022-02-24T01:07:32.600] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'rika',
+    ageStudent: '20',
+    lastEducationStudent: 's1',
+    subjectStudent: 'google',
+    firstDateStudent: 'asd',
+    lastDateStudent: 'asd'
+  },
+  isAjax: true
+}
+[2022-02-24T01:07:47.228] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:07:47.232] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:07:47.232] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:07:47.358] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:07:47.951] [INFO] app - [GET] /
+[2022-02-24T01:07:51.224] [INFO] app - [GET] /data
+[2022-02-24T01:07:51.226] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T01:07:58.294] [INFO] app - [POST] /post
+[2022-02-24T01:07:58.297] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'asd',
+    ageStudent: 'asd',
+    lastEducationStudent: 'ads',
+    subjectStudent: 'asd',
+    firstDateStudent: 'asd',
+    lastDateStudent: 'asd'
+  },
+  isAjax: true
+}
+[2022-02-24T01:08:28.725] [INFO] app - [POST] /post
+[2022-02-24T01:08:28.726] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'asd',
+    ageStudent: 'asd',
+    lastEducationStudent: 'ads',
+    subjectStudent: 'asd',
+    firstDateStudent: 'asd',
+    lastDateStudent: 'asd'
+  },
+  isAjax: true
+}
+[2022-02-24T01:09:13.545] [INFO] app - [GET] /
+[2022-02-24T01:09:17.179] [INFO] app - [GET] /data
+[2022-02-24T01:09:17.180] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T01:09:24.660] [INFO] app - [GET] /130767
+[2022-02-24T01:09:24.661] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:09:25.819] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:09:25.820] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:10:42.649] [INFO] app - [GET] /130767
+[2022-02-24T01:10:42.651] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:10:43.669] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:10:43.670] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:11:23.071] [INFO] app - [GET] /130767
+[2022-02-24T01:11:23.072] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:11:24.220] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:11:24.221] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:11:29.383] [INFO] app - [GET] /130767
+[2022-02-24T01:11:29.384] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:11:30.082] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:11:30.083] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:11:43.937] [INFO] app - [GET] /130767
+[2022-02-24T01:11:43.938] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:11:44.604] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:11:44.606] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:11:49.652] [INFO] app - [DELETE] /data/130767
+[2022-02-24T01:11:49.653] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /data/130767',
+  path: '/data/130767',
+  method: 'DELETE',
+  data: {},
+  isAjax: true
+}
+[2022-02-24T01:12:13.566] [INFO] app - [GET] /130767
+[2022-02-24T01:12:13.567] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:12:14.507] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:12:14.508] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:12:21.138] [INFO] app - [DELETE] /130767
+[2022-02-24T01:12:21.140] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130767
+[2022-02-24T01:12:21.409] [INFO] app - [GET] /130767
+[2022-02-24T01:12:21.410] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:12:21.512] [ERROR] lib.InternalService - [ERROR] /internal/node/list - [undefined:undefined] Request failed with status code 404
+data = { label: 'Test', skip: 0, limit: 1, propertyFilter: { _id: '130767' } }
+[2022-02-24T01:12:21.515] [ERROR] app - Error: Not Found
+    at createError (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (node:events:532:35)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  config: {
+    url: '/internal/node/list',
+    method: 'post',
+    data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'X-Requester': 'pkl_fe',
+      Authorization: 'Basic c2lwa2xfZmU6cmFoYXNpYQ==',
+      'User-Agent': 'axios/0.21.4',
+      'Content-Length': 69
+    },
+    baseURL: 'http://api.kitapeduli.org:8445/api',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 10000,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    }
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.kitapeduli.org',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      timeout: 10000,
+      [Symbol(async_id_symbol)]: 3973,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 10000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 274667,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 3980,
+        [Symbol(triggerId)]: 3975
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'X-Requester: pkl_fe\r\n' +
+      'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+      'User-Agent: axios/0.21.4\r\n' +
+      'Content-Length: 69\r\n' +
+      'Host: api.kitapeduli.org:8445\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/internal/node/list',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 404,
+      statusMessage: 'Not Found',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 26,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.kitapeduli.org',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 69,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      _timeout: null,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'x-requester': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 404,
+    statusText: 'Not Found',
+    headers: {
+      connection: 'close',
+      date: 'Wed, 23 Feb 2022 18:12:21 GMT',
+      'x-powered-by': 'CaktiCore',
+      'x-frame-options': 'DENY',
+      'x-content-type-options': 'nosniff',
+      'x-xss-protection': '1',
+      'cache-control': 'no-cache, no-store, must-revalidate',
+      pragma: 'no-cache',
+      'access-control-allow-headers': 'origin, content-type, accept, authorization',
+      'access-control-allow-credentials': 'true',
+      'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
+      'content-type': 'text/plain',
+      'content-length': '14'
+    },
+    config: {
+      url: '/internal/node/list',
+      method: 'post',
+      data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}',
+      headers: [Object],
+      baseURL: 'http://api.kitapeduli.org:8445/api',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 10000,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      transitional: [Object]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [Socket],
+      _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'X-Requester: pkl_fe\r\n' +
+        'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+        'User-Agent: axios/0.21.4\r\n' +
+        'Content-Length: 69\r\n' +
+        'Host: api.kitapeduli.org:8445\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/internal/node/list',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.kitapeduli.org',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: 'Node not found'
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON],
+  status: 404,
+  description: 'Node not found',
+  path: '/130767',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:12:22.153] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:12:22.154] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:14:26.394] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:14:26.397] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:14:26.398] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:14:26.504] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:14:37.777] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T01:14:37.781] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T01:14:37.782] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T01:14:37.951] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T01:14:42.633] [INFO] app - [GET] /130767
+[2022-02-24T01:14:42.640] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:14:42.805] [ERROR] lib.InternalService - [ERROR] /internal/node/list - [undefined:undefined] Request failed with status code 404
+data = { label: 'Test', skip: 0, limit: 1, propertyFilter: { _id: '130767' } }
+[2022-02-24T01:14:42.809] [ERROR] app - Error: Not Found
+    at createError (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (node:events:532:35)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  config: {
+    url: '/internal/node/list',
+    method: 'post',
+    data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'X-Requester': 'pkl_fe',
+      Authorization: 'Basic c2lwa2xfZmU6cmFoYXNpYQ==',
+      'User-Agent': 'axios/0.21.4',
+      'Content-Length': 69
+    },
+    baseURL: 'http://api.kitapeduli.org:8445/api',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 10000,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    }
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.kitapeduli.org',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      timeout: 10000,
+      [Symbol(async_id_symbol)]: 31,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 10000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 5790,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 39,
+        [Symbol(triggerId)]: 34
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'X-Requester: pkl_fe\r\n' +
+      'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+      'User-Agent: axios/0.21.4\r\n' +
+      'Content-Length: 69\r\n' +
+      'Host: api.kitapeduli.org:8445\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/internal/node/list',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 404,
+      statusMessage: 'Not Found',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 26,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.kitapeduli.org',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 69,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      _timeout: null,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'x-requester': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 404,
+    statusText: 'Not Found',
+    headers: {
+      connection: 'close',
+      date: 'Wed, 23 Feb 2022 18:14:42 GMT',
+      'x-powered-by': 'CaktiCore',
+      'x-frame-options': 'DENY',
+      'x-content-type-options': 'nosniff',
+      'x-xss-protection': '1',
+      'cache-control': 'no-cache, no-store, must-revalidate',
+      pragma: 'no-cache',
+      'access-control-allow-headers': 'origin, content-type, accept, authorization',
+      'access-control-allow-credentials': 'true',
+      'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
+      'content-type': 'text/plain',
+      'content-length': '14'
+    },
+    config: {
+      url: '/internal/node/list',
+      method: 'post',
+      data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}',
+      headers: [Object],
+      baseURL: 'http://api.kitapeduli.org:8445/api',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 10000,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      transitional: [Object]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [Socket],
+      _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'X-Requester: pkl_fe\r\n' +
+        'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+        'User-Agent: axios/0.21.4\r\n' +
+        'Content-Length: 69\r\n' +
+        'Host: api.kitapeduli.org:8445\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/internal/node/list',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.kitapeduli.org',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: 'Node not found'
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON],
+  status: 404,
+  description: 'Node not found',
+  path: '/130767',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:14:44.928] [INFO] app - [GET] /img/bandung.png
+[2022-02-24T01:14:44.930] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /img/bandung.png',
+  path: '/img/bandung.png',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:16:39.850] [INFO] app - [GET] /130767
+[2022-02-24T01:16:39.852] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}
+[2022-02-24T01:16:39.963] [ERROR] lib.InternalService - [ERROR] /internal/node/list - [undefined:undefined] Request failed with status code 404
+data = { label: 'Test', skip: 0, limit: 1, propertyFilter: { _id: '130767' } }
+[2022-02-24T01:16:39.964] [ERROR] app - Error: Not Found
+    at createError (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (node:events:532:35)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  config: {
+    url: '/internal/node/list',
+    method: 'post',
+    data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'X-Requester': 'pkl_fe',
+      Authorization: 'Basic c2lwa2xfZmU6cmFoYXNpYQ==',
+      'User-Agent': 'axios/0.21.4',
+      'Content-Length': 69
+    },
+    baseURL: 'http://api.kitapeduli.org:8445/api',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 10000,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    }
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.kitapeduli.org',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      timeout: 10000,
+      [Symbol(async_id_symbol)]: 474,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 10000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 122957,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 481,
+        [Symbol(triggerId)]: 476
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'X-Requester: pkl_fe\r\n' +
+      'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+      'User-Agent: axios/0.21.4\r\n' +
+      'Content-Length: 69\r\n' +
+      'Host: api.kitapeduli.org:8445\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/internal/node/list',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 404,
+      statusMessage: 'Not Found',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 26,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.kitapeduli.org',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 69,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      _timeout: null,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'x-requester': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 404,
+    statusText: 'Not Found',
+    headers: {
+      connection: 'close',
+      date: 'Wed, 23 Feb 2022 18:16:39 GMT',
+      'x-powered-by': 'CaktiCore',
+      'x-frame-options': 'DENY',
+      'x-content-type-options': 'nosniff',
+      'x-xss-protection': '1',
+      'cache-control': 'no-cache, no-store, must-revalidate',
+      pragma: 'no-cache',
+      'access-control-allow-headers': 'origin, content-type, accept, authorization',
+      'access-control-allow-credentials': 'true',
+      'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
+      'content-type': 'text/plain',
+      'content-length': '14'
+    },
+    config: {
+      url: '/internal/node/list',
+      method: 'post',
+      data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130767"}}',
+      headers: [Object],
+      baseURL: 'http://api.kitapeduli.org:8445/api',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 10000,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      transitional: [Object]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [Socket],
+      _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'X-Requester: pkl_fe\r\n' +
+        'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+        'User-Agent: axios/0.21.4\r\n' +
+        'Content-Length: 69\r\n' +
+        'Host: api.kitapeduli.org:8445\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/internal/node/list',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.kitapeduli.org',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: 'Node not found'
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON],
+  status: 404,
+  description: 'Node not found',
+  path: '/130767',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:16:47.704] [INFO] app - [GET] /layout
+[2022-02-24T01:16:47.706] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"layout"}}
+[2022-02-24T01:16:47.803] [ERROR] lib.InternalService - [ERROR] /internal/node/list - [undefined:undefined] Request failed with status code 500
+data = { label: 'Test', skip: 0, limit: 1, propertyFilter: { _id: 'layout' } }
+[2022-02-24T01:16:47.804] [ERROR] app - Error: Server Error
+    at createError (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (node:events:532:35)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  config: {
+    url: '/internal/node/list',
+    method: 'post',
+    data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"layout"}}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'X-Requester': 'pkl_fe',
+      Authorization: 'Basic c2lwa2xfZmU6cmFoYXNpYQ==',
+      'User-Agent': 'axios/0.21.4',
+      'Content-Length': 69
+    },
+    baseURL: 'http://api.kitapeduli.org:8445/api',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 10000,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    }
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.kitapeduli.org',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      timeout: 10000,
+      [Symbol(async_id_symbol)]: 861,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 10000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 130798,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 868,
+        [Symbol(triggerId)]: 863
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'X-Requester: pkl_fe\r\n' +
+      'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+      'User-Agent: axios/0.21.4\r\n' +
+      'Content-Length: 69\r\n' +
+      'Host: api.kitapeduli.org:8445\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/internal/node/list',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 500,
+      statusMessage: 'Server Error',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 24,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.kitapeduli.org',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 69,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      _timeout: null,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'x-requester': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 500,
+    statusText: 'Server Error',
+    headers: {
+      connection: 'close',
+      'x-powered-by': 'CaktiCore',
+      'x-frame-options': 'DENY',
+      'x-content-type-options': 'nosniff',
+      'x-xss-protection': '1',
+      pragma: 'no-cache',
+      'access-control-allow-headers': 'origin, content-type, accept, authorization',
+      'access-control-allow-credentials': 'true',
+      'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
+      'cache-control': 'must-revalidate,no-cache,no-store',
+      'content-type': 'application/json',
+      'content-length': '100'
+    },
+    config: {
+      url: '/internal/node/list',
+      method: 'post',
+      data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"layout"}}',
+      headers: [Object],
+      baseURL: 'http://api.kitapeduli.org:8445/api',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 10000,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      transitional: [Object]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [Socket],
+      _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'X-Requester: pkl_fe\r\n' +
+        'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+        'User-Agent: axios/0.21.4\r\n' +
+        'Content-Length: 69\r\n' +
+        'Host: api.kitapeduli.org:8445\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/internal/node/list',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.kitapeduli.org',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: {
+      servlet: 'jersey',
+      message: 'Request failed.',
+      url: '/api/internal/node/list',
+      status: '500'
+    }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON],
+  status: 500,
+  description: 'Request failed.: undefined',
+  path: '/layout',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:17:46.309] [INFO] app - [GET] /
+[2022-02-24T01:17:49.151] [INFO] app - [GET] /data
+[2022-02-24T01:17:49.153] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T01:17:56.304] [INFO] app - [GET] /home/data
+[2022-02-24T01:17:56.305] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /home/data',
+  path: '/home/data',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:18:00.461] [INFO] app - [GET] /home
+[2022-02-24T01:18:00.461] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"home"}}
+[2022-02-24T01:18:00.556] [ERROR] lib.InternalService - [ERROR] /internal/node/list - [undefined:undefined] Request failed with status code 500
+data = { label: 'Test', skip: 0, limit: 1, propertyFilter: { _id: 'home' } }
+[2022-02-24T01:18:00.558] [ERROR] app - Error: Server Error
+    at createError (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/home/damli/Work/PT.  Amal Solution/crud/node_modules/axios/lib/adapters/http.js:269:11)
+    at IncomingMessage.emit (node:events:532:35)
+    at endReadableNT (node:internal/streams/readable:1346:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  config: {
+    url: '/internal/node/list',
+    method: 'post',
+    data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"home"}}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'X-Requester': 'pkl_fe',
+      Authorization: 'Basic c2lwa2xfZmU6cmFoYXNpYQ==',
+      'User-Agent': 'axios/0.21.4',
+      'Content-Length': 67
+    },
+    baseURL: 'http://api.kitapeduli.org:8445/api',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 10000,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    }
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.kitapeduli.org',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      timeout: 10000,
+      [Symbol(async_id_symbol)]: 1994,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 10000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 203550,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 2001,
+        [Symbol(triggerId)]: 1996
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'X-Requester: pkl_fe\r\n' +
+      'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+      'User-Agent: axios/0.21.4\r\n' +
+      'Content-Length: 67\r\n' +
+      'Host: api.kitapeduli.org:8445\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/internal/node/list',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 500,
+      statusMessage: 'Server Error',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 24,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.kitapeduli.org',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 67,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://api.kitapeduli.org:8445/api/internal/node/list',
+      _timeout: null,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'x-requester': [Array],
+      authorization: [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 500,
+    statusText: 'Server Error',
+    headers: {
+      connection: 'close',
+      'x-powered-by': 'CaktiCore',
+      'x-frame-options': 'DENY',
+      'x-content-type-options': 'nosniff',
+      'x-xss-protection': '1',
+      pragma: 'no-cache',
+      'access-control-allow-headers': 'origin, content-type, accept, authorization',
+      'access-control-allow-credentials': 'true',
+      'access-control-allow-methods': 'GET, POST, PUT, DELETE, OPTIONS, HEAD',
+      'cache-control': 'must-revalidate,no-cache,no-store',
+      'content-type': 'application/json',
+      'content-length': '100'
+    },
+    config: {
+      url: '/internal/node/list',
+      method: 'post',
+      data: '{"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"home"}}',
+      headers: [Object],
+      baseURL: 'http://api.kitapeduli.org:8445/api',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 10000,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      transitional: [Object]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [Socket],
+      _header: 'POST /api/internal/node/list HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'X-Requester: pkl_fe\r\n' +
+        'Authorization: Basic c2lwa2xfZmU6cmFoYXNpYQ==\r\n' +
+        'User-Agent: axios/0.21.4\r\n' +
+        'Content-Length: 67\r\n' +
+        'Host: api.kitapeduli.org:8445\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/internal/node/list',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.kitapeduli.org',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: {
+      servlet: 'jersey',
+      message: 'Request failed.',
+      url: '/api/internal/node/list',
+      status: '500'
+    }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON],
+  status: 500,
+  description: 'Request failed.: undefined',
+  path: '/home',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T01:18:06.520] [INFO] app - [GET] /
+[2022-02-24T01:18:08.823] [INFO] app - [GET] /data
+[2022-02-24T01:18:08.825] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:01:26.584] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T10:01:26.586] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T10:01:26.587] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T10:01:27.226] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T10:33:47.458] [INFO] app - [GET] /
+[2022-02-24T10:33:52.696] [INFO] app - [GET] /data
+[2022-02-24T10:33:52.699] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:34:54.399] [INFO] app - [POST] /post
+[2022-02-24T10:34:54.401] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Saveriues Genjieh',
+    ageStudent: '25',
+    lastEducationStudent: 'Dr ',
+    subjectStudent: 'Public Speaking',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:34:58.376] [INFO] app - [POST] /post
+[2022-02-24T10:34:58.378] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Saveriues Genjieh',
+    ageStudent: '25',
+    lastEducationStudent: 'Dr ',
+    subjectStudent: 'Public Speaking',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:34:59.075] [INFO] app - [POST] /post
+[2022-02-24T10:34:59.076] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Saveriues Genjieh',
+    ageStudent: '25',
+    lastEducationStudent: 'Dr ',
+    subjectStudent: 'Public Speaking',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:34:59.326] [INFO] app - [POST] /post
+[2022-02-24T10:34:59.327] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Saveriues Genjieh',
+    ageStudent: '25',
+    lastEducationStudent: 'Dr ',
+    subjectStudent: 'Public Speaking',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:34:59.468] [INFO] app - [POST] /post
+[2022-02-24T10:34:59.469] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Saveriues Genjieh',
+    ageStudent: '25',
+    lastEducationStudent: 'Dr ',
+    subjectStudent: 'Public Speaking',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:34:59.609] [INFO] app - [POST] /post
+[2022-02-24T10:34:59.609] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Saveriues Genjieh',
+    ageStudent: '25',
+    lastEducationStudent: 'Dr ',
+    subjectStudent: 'Public Speaking',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:35:03.423] [INFO] app - [GET] /131098
+[2022-02-24T10:35:03.426] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131098"}}
+[2022-02-24T10:35:07.527] [INFO] app - [DELETE] /131098
+[2022-02-24T10:35:07.528] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=131098
+[2022-02-24T10:35:07.682] [INFO] app - [GET] /
+[2022-02-24T10:35:09.356] [INFO] app - [GET] /data
+[2022-02-24T10:35:09.357] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:35:21.662] [INFO] app - [GET] /131233
+[2022-02-24T10:35:21.663] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:36:45.646] [INFO] app - [GET] /131233
+[2022-02-24T10:36:45.647] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:37:17.236] [INFO] app - [GET] /131233
+[2022-02-24T10:37:17.237] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:37:50.338] [INFO] app - [GET] /131233
+[2022-02-24T10:37:50.339] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:38:18.103] [INFO] app - [GET] /131233
+[2022-02-24T10:38:18.104] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:38:28.662] [INFO] app - [GET] /131233
+[2022-02-24T10:38:28.663] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:38:57.749] [INFO] app - [GET] /131233
+[2022-02-24T10:38:57.749] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131233"}}
+[2022-02-24T10:41:21.624] [INFO] app - [GET] /
+[2022-02-24T10:41:23.383] [INFO] app - [GET] /data
+[2022-02-24T10:41:23.385] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:41:27.845] [INFO] app - [GET] /130759
+[2022-02-24T10:41:27.846] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130759"}}
+[2022-02-24T10:41:33.963] [INFO] app - [DELETE] /130759
+[2022-02-24T10:41:33.965] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130759
+[2022-02-24T10:41:34.088] [INFO] app - [GET] /
+[2022-02-24T10:41:35.333] [INFO] app - [GET] /data
+[2022-02-24T10:41:35.334] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:43:18.559] [INFO] app - [GET] /130887
+[2022-02-24T10:43:18.560] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130887"}}
+[2022-02-24T10:43:21.405] [INFO] app - [DELETE] /130887
+[2022-02-24T10:43:21.405] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130887
+[2022-02-24T10:43:21.542] [INFO] app - [GET] /
+[2022-02-24T10:43:23.328] [INFO] app - [GET] /data
+[2022-02-24T10:43:23.329] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:43:30.497] [INFO] app - [GET] /130888
+[2022-02-24T10:43:30.499] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130888"}}
+[2022-02-24T10:43:33.427] [INFO] app - [DELETE] /130888
+[2022-02-24T10:43:33.428] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130888
+[2022-02-24T10:43:33.607] [INFO] app - [GET] /
+[2022-02-24T10:43:35.215] [INFO] app - [GET] /data
+[2022-02-24T10:43:35.215] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:43:43.856] [INFO] app - [GET] /130889
+[2022-02-24T10:43:43.857] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130889"}}
+[2022-02-24T10:43:46.346] [INFO] app - [DELETE] /130889
+[2022-02-24T10:43:46.347] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130889
+[2022-02-24T10:43:46.477] [INFO] app - [GET] /
+[2022-02-24T10:43:47.814] [INFO] app - [GET] /data
+[2022-02-24T10:43:47.814] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:43:54.903] [INFO] app - [GET] /130891
+[2022-02-24T10:43:54.904] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130891"}}
+[2022-02-24T10:43:57.738] [INFO] app - [DELETE] /130891
+[2022-02-24T10:43:57.740] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130891
+[2022-02-24T10:43:57.916] [INFO] app - [GET] /
+[2022-02-24T10:43:59.568] [INFO] app - [GET] /data
+[2022-02-24T10:43:59.569] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:44:04.104] [INFO] app - [GET] /130823
+[2022-02-24T10:44:04.105] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130823"}}
+[2022-02-24T10:44:07.058] [INFO] app - [DELETE] /130823
+[2022-02-24T10:44:07.059] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130823
+[2022-02-24T10:44:07.211] [INFO] app - [GET] /
+[2022-02-24T10:44:08.933] [INFO] app - [GET] /data
+[2022-02-24T10:44:08.934] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:44:13.456] [INFO] app - [GET] /130824
+[2022-02-24T10:44:13.457] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130824"}}
+[2022-02-24T10:44:16.297] [INFO] app - [DELETE] /130824
+[2022-02-24T10:44:16.299] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130824
+[2022-02-24T10:44:16.426] [INFO] app - [GET] /
+[2022-02-24T10:44:17.776] [INFO] app - [GET] /data
+[2022-02-24T10:44:17.777] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:44:20.629] [INFO] app - [GET] /130834
+[2022-02-24T10:44:20.631] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130834"}}
+[2022-02-24T10:44:23.141] [INFO] app - [DELETE] /130834
+[2022-02-24T10:44:23.142] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130834
+[2022-02-24T10:44:23.287] [INFO] app - [GET] /
+[2022-02-24T10:44:24.816] [INFO] app - [GET] /data
+[2022-02-24T10:44:24.817] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:44:32.745] [INFO] app - [GET] /130836
+[2022-02-24T10:44:32.746] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130836"}}
+[2022-02-24T10:45:29.400] [INFO] app - [DELETE] /130836
+[2022-02-24T10:45:29.402] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130836
+[2022-02-24T10:45:29.997] [INFO] app - [GET] /
+[2022-02-24T10:45:32.120] [INFO] app - [GET] /data
+[2022-02-24T10:45:32.121] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:45:38.698] [INFO] app - [GET] /130837
+[2022-02-24T10:45:38.699] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130837"}}
+[2022-02-24T10:45:41.495] [INFO] app - [DELETE] /130837
+[2022-02-24T10:45:41.496] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130837
+[2022-02-24T10:45:41.668] [INFO] app - [GET] /
+[2022-02-24T10:45:43.145] [INFO] app - [GET] /data
+[2022-02-24T10:45:43.147] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:45:50.667] [INFO] app - [GET] /130838
+[2022-02-24T10:45:50.668] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130838"}}
+[2022-02-24T10:45:53.780] [INFO] app - [DELETE] /130838
+[2022-02-24T10:45:53.781] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130838
+[2022-02-24T10:45:53.914] [INFO] app - [GET] /
+[2022-02-24T10:45:55.336] [INFO] app - [GET] /data
+[2022-02-24T10:45:55.338] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:46:01.801] [INFO] app - [GET] /130847
+[2022-02-24T10:46:01.801] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130847"}}
+[2022-02-24T10:46:04.874] [INFO] app - [DELETE] /130847
+[2022-02-24T10:46:04.875] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130847
+[2022-02-24T10:46:05.013] [INFO] app - [GET] /
+[2022-02-24T10:46:06.626] [INFO] app - [GET] /data
+[2022-02-24T10:46:06.627] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:48:40.516] [INFO] app - [GET] /130890
+[2022-02-24T10:48:40.516] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130890"}}
+[2022-02-24T10:48:44.851] [INFO] app - [DELETE] /130890
+[2022-02-24T10:48:44.852] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130890
+[2022-02-24T10:48:45.004] [INFO] app - [GET] /
+[2022-02-24T10:48:46.621] [INFO] app - [GET] /data
+[2022-02-24T10:48:46.622] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:48:57.329] [INFO] app - [GET] /129511
+[2022-02-24T10:48:57.331] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"129511"}}
+[2022-02-24T10:49:00.155] [INFO] app - [DELETE] /129511
+[2022-02-24T10:49:00.156] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=129511
+[2022-02-24T10:49:00.283] [INFO] app - [GET] /
+[2022-02-24T10:49:01.799] [INFO] app - [GET] /data
+[2022-02-24T10:49:01.801] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:49:05.589] [INFO] app - [GET] /130486
+[2022-02-24T10:49:05.590] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130486"}}
+[2022-02-24T10:49:08.099] [INFO] app - [DELETE] /130486
+[2022-02-24T10:49:08.100] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130486
+[2022-02-24T10:49:08.250] [INFO] app - [GET] /
+[2022-02-24T10:49:09.600] [INFO] app - [GET] /data
+[2022-02-24T10:49:09.601] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:49:12.988] [INFO] app - [GET] /130778
+[2022-02-24T10:49:12.989] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130778"}}
+[2022-02-24T10:49:15.762] [INFO] app - [DELETE] /130778
+[2022-02-24T10:49:15.764] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130778
+[2022-02-24T10:49:15.914] [INFO] app - [GET] /
+[2022-02-24T10:49:17.380] [INFO] app - [GET] /data
+[2022-02-24T10:49:17.381] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:49:21.209] [INFO] app - [GET] /130825
+[2022-02-24T10:49:21.209] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130825"}}
+[2022-02-24T10:49:23.606] [INFO] app - [DELETE] /130825
+[2022-02-24T10:49:23.607] [DEBUG] lib.InternalService - [DELETE] /internal/node?id=130825
+[2022-02-24T10:49:23.774] [INFO] app - [GET] /
+[2022-02-24T10:49:25.248] [INFO] app - [GET] /data
+[2022-02-24T10:49:25.250] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:55:27.853] [INFO] app - [POST] /post
+[2022-02-24T10:55:27.855] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Vian',
+    ageStudent: '23',
+    lastEducationStudent: 's3',
+    subjectStudent: 'Bussness Analyst',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:55:33.427] [INFO] app - [POST] /post
+[2022-02-24T10:55:33.428] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Vian',
+    ageStudent: '23',
+    lastEducationStudent: 's3',
+    subjectStudent: 'Bussness Analyst',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:55:34.005] [INFO] app - [POST] /post
+[2022-02-24T10:55:34.006] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Vian',
+    ageStudent: '23',
+    lastEducationStudent: 's3',
+    subjectStudent: 'Bussness Analyst',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:55:34.343] [INFO] app - [POST] /post
+[2022-02-24T10:55:34.347] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Vian',
+    ageStudent: '23',
+    lastEducationStudent: 's3',
+    subjectStudent: 'Bussness Analyst',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:55:34.486] [INFO] app - [POST] /post
+[2022-02-24T10:55:34.487] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Vian',
+    ageStudent: '23',
+    lastEducationStudent: 's3',
+    subjectStudent: 'Bussness Analyst',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:55:34.636] [INFO] app - [POST] /post
+[2022-02-24T10:55:34.637] [ERROR] app - {
+  status: 404,
+  message: 'Page Not Found: /post',
+  path: '/post',
+  method: 'POST',
+  data: {
+    nameStudent: 'Vian',
+    ageStudent: '23',
+    lastEducationStudent: 's3',
+    subjectStudent: 'Bussness Analyst',
+    firstDateStudent: 'date',
+    lastDateStudent: 'date'
+  },
+  isAjax: true
+}
+[2022-02-24T10:57:06.304] [INFO] app - [GET] /
+[2022-02-24T10:57:09.552] [INFO] app - [GET] /data
+[2022-02-24T10:57:09.553] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:57:14.432] [INFO] app - [GET] /data
+[2022-02-24T10:57:14.433] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:57:31.705] [INFO] app - [GET] /
+[2022-02-24T10:57:34.826] [INFO] app - [GET] /data
+[2022-02-24T10:57:34.828] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:58:03.404] [INFO] app - [POST] /data
+[2022-02-24T10:58:03.406] [DEBUG] lib.InternalService - [POST] /internal/node
+[2022-02-24T10:58:03.916] [INFO] app - [GET] /
+[2022-02-24T10:58:07.118] [INFO] app - [GET] /data
+[2022-02-24T10:58:07.123] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T10:59:57.152] [INFO] app - [GET] /130876
+[2022-02-24T10:59:57.153] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130876"}}
+[2022-02-24T11:08:20.290] [INFO] app - [GET] /130876
+[2022-02-24T11:08:20.291] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130876"}}
+[2022-02-24T11:10:35.160] [INFO] app - [GET] /
+[2022-02-24T11:10:37.397] [INFO] app - [GET] /data
+[2022-02-24T11:10:37.400] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T11:10:40.885] [INFO] app - [GET] /131235
+[2022-02-24T11:10:40.886] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:12:04.056] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T11:12:04.059] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T11:12:04.059] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T11:12:05.234] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T11:12:43.386] [INFO] app - [GET] /131235
+[2022-02-24T11:12:43.393] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:13:10.046] [INFO] app - [GET] /131235
+[2022-02-24T11:13:10.048] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:13:32.198] [INFO] app - [GET] /131235
+[2022-02-24T11:13:32.200] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:14:33.804] [INFO] app - [GET] /131235
+[2022-02-24T11:14:33.806] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:15:11.000] [INFO] app - [GET] /131235
+[2022-02-24T11:15:11.001] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:16:06.501] [INFO] app - [GET] /131235
+[2022-02-24T11:16:06.502] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:16:31.407] [INFO] app - [GET] /131235
+[2022-02-24T11:16:31.408] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:18:05.122] [INFO] app - [GET] /
+[2022-02-24T11:18:08.870] [INFO] app - [GET] /data
+[2022-02-24T11:18:08.872] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T11:18:13.333] [INFO] app - [GET] /131235
+[2022-02-24T11:18:13.334] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:18:46.446] [INFO] app - [GET] /131235
+[2022-02-24T11:18:46.447] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:19:06.015] [INFO] app - [GET] /131235
+[2022-02-24T11:19:06.016] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:19:21.021] [INFO] app - [GET] /131235
+[2022-02-24T11:19:21.023] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:20:26.799] [INFO] app - [GET] /131235
+[2022-02-24T11:20:26.800] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:39:48.675] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T11:39:48.677] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T11:39:48.678] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T11:39:48.785] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T11:39:52.470] [INFO] app - [GET] /131235
+[2022-02-24T11:39:52.477] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:42:46.694] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T11:42:46.699] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T11:42:46.699] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T11:42:46.813] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T11:42:50.189] [INFO] app - [GET] /131235
+[2022-02-24T11:42:50.195] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:43:04.907] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T11:43:04.909] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T11:43:04.910] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T11:43:05.018] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T11:43:19.991] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T11:43:19.995] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T11:43:19.995] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T11:43:20.113] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T11:43:22.475] [INFO] app - [GET] /131235
+[2022-02-24T11:43:22.480] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:43:37.680] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T11:43:37.683] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T11:43:37.684] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T11:43:37.816] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T11:45:33.348] [INFO] app - [GET] /131235
+[2022-02-24T11:45:33.353] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:46:18.042] [INFO] app - [GET] /131235
+[2022-02-24T11:46:18.045] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:46:41.223] [INFO] app - [GET] /131235
+[2022-02-24T11:46:41.225] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:46:57.500] [INFO] app - [GET] /131235
+[2022-02-24T11:46:57.501] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:47:43.595] [INFO] app - [GET] /131235
+[2022-02-24T11:47:43.596] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:49:13.548] [INFO] app - [GET] /131235
+[2022-02-24T11:49:13.549] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:57:22.070] [INFO] app - [GET] /131235
+[2022-02-24T11:57:22.071] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:57:38.952] [INFO] app - [GET] /131235
+[2022-02-24T11:57:38.953] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T11:59:52.037] [INFO] app - [GET] /131235
+[2022-02-24T11:59:52.038] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T12:07:53.967] [INFO] app - [GET] /131235
+[2022-02-24T12:07:53.968] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T12:08:09.355] [INFO] app - [GET] /131235
+[2022-02-24T12:08:09.356] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T12:09:15.860] [INFO] app - [GET] /131235
+[2022-02-24T12:09:15.861] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T12:09:31.620] [INFO] app - [GET] /131235
+[2022-02-24T12:09:31.620] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T13:31:37.589] [INFO] app - [GET] /131235
+[2022-02-24T13:31:37.590] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"131235"}}
+[2022-02-24T13:32:36.374] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T13:32:36.378] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T13:32:36.379] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T13:32:36.488] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T17:01:09.204] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T17:01:09.207] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T17:01:09.208] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T17:01:09.574] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T17:01:11.122] [INFO] app - [GET] /
+[2022-02-24T17:01:19.209] [INFO] app - [GET] /data
+[2022-02-24T17:01:19.216] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T17:01:34.693] [INFO] app - [GET] /130766
+[2022-02-24T17:01:34.695] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130766"}}
+[2022-02-24T17:02:40.628] [INFO] app - [GET] /130766
+[2022-02-24T17:02:40.630] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130766"}}
+[2022-02-24T17:09:46.194] [INFO] app - [GET] /
+[2022-02-24T17:09:49.141] [INFO] app - [GET] /data
+[2022-02-24T17:09:49.147] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T17:12:53.751] [INFO] lib.WebService - IDM-API : http://api.kitapeduli.org:9003/api
+[2022-02-24T17:12:53.755] [INFO] lib.WebService - GRAPH-API : http://api.kitapeduli.org:8445/api
+[2022-02-24T17:12:53.755] [INFO] lib.WebService - SPATIAL-API : http://api.kitapeduli.org:8559/api
+[2022-02-24T17:12:53.987] [INFO] www - App is running HTTP service and listening on port 19011
+[2022-02-24T17:12:59.318] [INFO] app - [GET] /
+[2022-02-24T17:13:05.999] [INFO] app - [GET] /data
+[2022-02-24T17:13:06.002] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T17:13:18.265] [INFO] app - [GET] /130766
+[2022-02-24T17:13:18.291] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130766"}}
+[2022-02-24T17:19:17.366] [INFO] app - [GET] /130766
+[2022-02-24T17:19:17.367] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130766"}}
+[2022-02-24T17:19:17.662] [ERROR] app - Error: Failed to lookup view "tabInfo" in views directory "/home/damli/Work/PT.  Amal Solution/crud/views"
+    at Function.render (/home/damli/Work/PT.  Amal Solution/crud/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/damli/Work/PT.  Amal Solution/crud/node_modules/express/lib/response.js:1008:7)
+    at /home/damli/Work/PT.  Amal Solution/crud/routes/home.js:122:7
+    at /home/damli/Work/PT.  Amal Solution/crud/lib/InternalService.js:16:7
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  view: View {
+    defaultEngine: 'pug',
+    ext: '.pug',
+    name: 'tabInfo',
+    root: '/home/damli/Work/PT.  Amal Solution/crud/views',
+    engine: [Function (anonymous)],
+    path: undefined
+  },
+  status: 500,
+  path: '/130766',
+  method: 'GET',
+  data: {},
+  isAjax: false
+}
+[2022-02-24T17:19:30.078] [INFO] app - [GET] /
+[2022-02-24T17:19:32.004] [INFO] app - [GET] /data
+[2022-02-24T17:19:32.005] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T17:21:25.952] [INFO] app - [GET] /
+[2022-02-24T17:21:28.614] [INFO] app - [GET] /data
+[2022-02-24T17:21:28.616] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T17:21:32.669] [INFO] app - [GET] /130766
+[2022-02-24T17:21:32.670] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130766"}}
+[2022-02-24T17:25:34.836] [INFO] app - [GET] /
+[2022-02-24T17:25:37.728] [INFO] app - [GET] /data
+[2022-02-24T17:25:37.729] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
+[2022-02-24T17:25:41.621] [INFO] app - [GET] /130766
+[2022-02-24T17:25:41.622] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"label":"Test","skip":0,"limit":1,"propertyFilter":{"_id":"130766"}}
+[2022-02-24T17:26:05.948] [INFO] app - [GET] /
+[2022-02-24T17:26:08.015] [INFO] app - [GET] /data
+[2022-02-24T17:26:08.018] [INFO] lib.InternalService - [POST] http://api.kitapeduli.org:8445/api/internal/node/list - data: {"limit":0,"label":"Test","skip":0,"propertyFilter":{},"propertySort":{}}
